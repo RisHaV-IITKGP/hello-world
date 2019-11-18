@@ -1,3 +1,4 @@
 # hello-world
 For learning purpose
-/* Learning to use GitHub */
+ Learning to use GitHub
+ HELLO!!
