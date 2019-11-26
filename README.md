@@ -1,4 +1,4 @@
 ## hello-world
-A repository for learning purposes.
- Learning to use GitHub!!!
+A repository for learning purposes. \n
+Learning to use GitHub!!!
  
